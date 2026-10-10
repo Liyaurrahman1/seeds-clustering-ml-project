@@ -100,7 +100,7 @@ A useful lesson from this project is that **cluster-number selection involves ju
 
 ## Files
 
-- `Final_Project_Option3_Seeds_Clustering.ipynb` — Completed notebook with code, interpretation, and visible outputs.
-- `Final_Project_Option3_Seeds_Clustering.html` — Jupyter notebook exported to HTML.
-- `README.md` — Portfolio overview, approach, findings, limitations, and reflection.
+- [`Final_Project_Option3_Seeds_Clustering.ipynb`](Final_Project_Option3_Seeds_Clustering.ipynb) — Completed notebook with code, interpretation, and visible outputs.
+- [`Final_Project_Option3_Seeds_Clustering.html`](https://github.io) — Jupyter notebook exported to HTML.
+- [`README.md`](README.md) — Portfolio overview, approach, findings, limitations, and reflection.
 
